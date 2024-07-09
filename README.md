@@ -1,4 +1,4 @@
-### Hi there, 👋
+### Thanks for checking out my page!
 
 <!--
 **tobygershon/tobygershon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 Portfolio Page: https://tobygershon.netlify.app
 
-Currently Working on:  1) 'My Bloomborhood' garden plant sharing app.  I learned React/React-Router as well as firebase NoSQL DB for this project after working with Vue and postrgres in the past.
+Currently Working on:  1) 'My Bloomborhood' garden plant sharing app.  I learned React/React-Router as well as firebase NoSQL DB for this project after working with Vue and postrgres in the past.\n
 2) 'Trivia Gamble' multiplayer trivia game platform.  I am building a backend with Python/Flask for the first time as well as integrating the openAI API into the project.
 
 Currently Learning:  Python/Flask, React/React-Router/Redux, openAI API
