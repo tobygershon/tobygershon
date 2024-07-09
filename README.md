@@ -14,6 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Portfolio Page: https://tobygershon.netlify.app
+
+Currently Working on:  1) 'My Bloomborhood' garden plant sharing app.  I learned React/React-Router as well as firebase NoSQL DB for this project after working with Vue and postrgres in the past.
+2) 'Trivia Gamble' multiplayer trivia game platform.  I am building a backend with Python/Flask for the first time as well as integrating the openAI API into the project.
+
+Currently Learning:  Python/Flask, React/React-Router/Redux, openAI API
+
 I recently decided to change careers to rediscover a passion for problem solving, projects and engineering.  Whether it was in school, sports, or work, I've always been fascinated by the power of teamwork to multiply the potential of each individual.  
 
 As an optometrist, it was satisfying to help individual patient's resolve their problems on a daily basis. But I missed the collaborative team environment I had experienced as an engineering student.  I craved the excitement that comes from tackling new problems. I longed for the sense of accomplishment that comes from building a project from the ground up.
